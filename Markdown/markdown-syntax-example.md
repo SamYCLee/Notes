@@ -101,7 +101,7 @@ OR
     + Second Item
     + Third Item
 
-### **Code Block**3
+### **Code Block**
 
 > Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.
 
