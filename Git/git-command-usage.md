@@ -2,7 +2,7 @@
 
 This note is for the purpose of recording the basic and experienced use cases of different commands.
 
-## Command
+## Commands for Local Repository Manipulation
 
 ----
 
@@ -10,10 +10,8 @@ This note is for the purpose of recording the basic and experienced use cases of
 
 `git init` is for initializing a new git repository. To use it:
 
-
     // in the root directory of your project
     > git init
-
 
 ### **git add**
 
@@ -49,3 +47,25 @@ This note is for the purpose of recording the basic and experienced use cases of
 
     > git checkout -b newBranchName
 
+### **git switch**
+
+`git switch` can be used to checkout a different branch (same as `git checkout`).
+
+    > git switch branchName
+
+## Commands for Remote Repository Manipulation
+
+----
+
+### **git remote**
+
+`git remote` is used to manipulate remote repositories' setting.
+
+#### *Add new remote repository*
+
+    > // The first remote repository is named as origin as convention
+    > git remote add origin user@domain.com
+
+#### *Remove remote repository*
+
+    > git remote remove origin
