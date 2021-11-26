@@ -1,4 +1,4 @@
-# Application of Git
+# Git Application
 
 ## What is Git ?
 
