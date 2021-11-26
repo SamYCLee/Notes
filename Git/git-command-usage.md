@@ -29,7 +29,11 @@ This note is for the purpose of recording the basic and experienced use cases of
 
 #### *List existing branches*
 
-    > git branch --list
+    > git branch [-l|--list]
+
+#### *List all branches*
+
+    > git branch [-al|--all --list]
 
 #### *Delete branch*
 
@@ -69,3 +73,7 @@ This note is for the purpose of recording the basic and experienced use cases of
 #### *Remove remote repository*
 
     > git remote remove origin
+
+#### *Show remote repository address*
+    > git remote show origin
+
