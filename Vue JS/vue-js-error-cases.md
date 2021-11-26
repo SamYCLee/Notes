@@ -1,4 +1,4 @@
-# Vue Error
+# VueJS Error Cases
 
 ## Error - Cannot read property '__ob__' of undefined
 
