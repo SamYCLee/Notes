@@ -1,8 +1,8 @@
 # Markdown Syntax Example
 
-This note is a [collection of markdown syntax][1].
+This note is a collection of markdown syntax, including both [basic][1] and [extended][2] ones.
 
-## Syntax
+## Basic Syntax
 
 ----
 
@@ -105,4 +105,32 @@ OR
 
 > Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.
 
+----
+
+## Extended Syntax
+
+Not all Markdown applications support extended syntax elements. You’ll need to check whether or not the lightweight markup language your application is using supports the extended syntax elements you want to use. If it doesn’t, it may still be possible to enable extensions in your Markdown processor. (Quote: [Reference][2])
+
+----
+
+### **Table**
+
+    | Header | Description |
+    | --- | --- |
+    | Header 1 | content1 |
+
+#### Alignment in table
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+    | Syntax      | Description | Test Text     |
+    | :---        |    :----:   |          ---: |
+    | Header      | Title       | Here's this   |
+    | Paragraph   | Text        | And more      |
+
+
 [1]: https://www.markdownguide.org/basic-syntax/
+[2]: https://www.markdownguide.org/extended-syntax/
