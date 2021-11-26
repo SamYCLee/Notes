@@ -1,5 +1,7 @@
 # Git Tracking Relationship
 
+## Caption
+
 This note is a brief record of the [reference][1].
 
 ## What is tracking relationship? Why should I set it up?
