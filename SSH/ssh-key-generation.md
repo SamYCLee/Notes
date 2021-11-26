@@ -1,10 +1,12 @@
 # SSH Key Generation
 
-## OS
+## Caption
 
-### Windows
+This note is dedicated for the generation of SSH key pair.
 
-#### OpenSSH
+## Windows
+
+### OpenSSH
 
 To generate ssh key using OpenSSH Client:
 
