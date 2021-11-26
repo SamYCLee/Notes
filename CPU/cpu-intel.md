@@ -1,6 +1,6 @@
 # Intel CPU
 
-## Introduction
+## Caption
 
 This note is dedicated for the knowledge of Intel CPU.
 

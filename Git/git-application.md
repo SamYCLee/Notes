@@ -1,5 +1,9 @@
 # Git Application
 
+## Caption
+
+This note is dedicated for git application general information.
+
 ## What is Git ?
 
 Git is a source control program which helps on both individual software development and teamwork software development.

@@ -1,5 +1,9 @@
 # Git - Five Branch Model
 
+## Caption
+
+This note is dedicated for the five branch git model.
+
 ## Five Branches
 
 In each project, we will ALWAYS keep TWO (2) branches alive forever (master & develop).

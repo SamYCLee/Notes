@@ -1,5 +1,9 @@
 # Classful Network
 
+## Caption
+
+This note is dedicated for the Classful Network concept.
+
 ## Introduction
 
 A classful network is a network addressing architecture used in the Internet from 1981 until the introduction of Classless Inter-Domain Routing in 1993.

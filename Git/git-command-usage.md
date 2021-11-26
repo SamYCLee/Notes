@@ -1,5 +1,7 @@
 # Note Summary
 
+## Caption
+
 This note is for the purpose of recording the basic and experienced use cases of different commands.
 
 ## Commands for Local Repository Manipulation

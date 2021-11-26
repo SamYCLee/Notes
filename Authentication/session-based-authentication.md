@@ -1,5 +1,7 @@
 # Session-based Authentication
 
+## Caption
+
 This note is an summary of multiple articles discussing on the general concept, implementation, pros and cons regarding to session-based authentication.
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Markdown Syntax Example
 
+## Caption
+
 This note is a collection of markdown syntax, including both [basic][1] and [extended][2] ones.
 
 ## Basic Syntax

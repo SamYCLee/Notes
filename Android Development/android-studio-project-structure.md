@@ -1,5 +1,7 @@
 # Android Studio Project Structure
 
+## Caption
+
 This note is dedicated for explaining different files created during the initialization of the project in Android Studio.
 
 ## Folder and Files
