@@ -59,6 +59,12 @@ This note is for the purpose of recording the basic and experienced use cases of
 
     > git switch branchName
 
+### **git count-objects**
+
+`git count-objects` can be used to check the size of the repository.
+
+    > git count-objects -vH
+
 ## Commands for Remote Repository Manipulation
 
 ----
