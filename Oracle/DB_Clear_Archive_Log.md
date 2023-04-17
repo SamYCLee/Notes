@@ -37,3 +37,4 @@ To delete the expired archive log:
 2. http://raafat.tawasol.net/how-to-delete-archivelog-using-rman-in-oracle/
 3. https://stackoverflow.com/questions/22399766/how-to-find-oracle-service-name
 4. https://docs.oracle.com/cd/A97630_01/server.920/a96566/rcmcnctg.htm#443912
+5. https://kirthikannan.blogspot.com/2017/10/how-to-delete-expired-or-obsolete.html
