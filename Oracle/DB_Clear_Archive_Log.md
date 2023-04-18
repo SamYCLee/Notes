@@ -1,17 +1,35 @@
 # Oracle DB: Clear Archive Log
 
-## Using RMAN
+## Change Log
+
+| Date | Change |
+|----|-----|
+| 20230418 | Init Commit |
+
+## Check Target DB setting
 
 Before deleteing the archive log, we may first want to know the below information.
 
 Archive Log Location:
 
+    // Using UNIX as DB host
     DBHost$ sqlplus / as sysdba
     SQLPLUS> archive log list;
+    
+Archive Log Format:
 
-To proper delete the archive log, we would connect to the target DB through the Oracle Service Name, which can be find in the Database with the query:
+    SQLPLUS> show log_archive_format;
+    
+Parameters' related to DB recover:
 
-    SELECT * FROM GLOBAL_NAME;
+    SQLPLUS> show parameter recover;
+    
+
+Target DB Oracle Service Name, which can be find in the Database with the query:
+
+    SQLPLUS> SELECT * FROM GLOBAL_NAME;
+
+## Delete / Obsolete Archive Log 
 
 > All the below commands also required DB storage device to have available volume as audit log and trails need to be created using RMAN
 
