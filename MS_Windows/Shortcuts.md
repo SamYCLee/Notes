@@ -1,12 +1,13 @@
-# Restart Graphic Card's Driver in Windows
+# Windows Shortcuts
 
 ## Version
 | Date | Change |
 |----|----|
 | 20230418 | init commit |
 
-## Method
+## Shortcuts
 
+### Restart Graphic Card's Driver
     // In windows, press the following at the same time
     CTRL + WIN + SHIFT + B
     
